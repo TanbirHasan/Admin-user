@@ -1,0 +1,40 @@
+.User-details .details {
+  display: flex;
+  justify-content: start;
+  padding: 15px;
+}
+.User-details h2 {
+  text-align: initial;
+  font-size: 2rem;
+}
+
+.User-details .details h3 {
+  margin-right: 25%;
+  font-size: 18px;
+}
+
+.User-details .button {
+  text-align: start;
+}
+.User-details .button button {
+  margin: 0px;
+  padding: 10px 68px;
+  margin-top: 20px;
+  background-color: #f2f2f2;
+  font-size: 15px;
+  border: none;
+  margin-right: 50px;
+  color: #013a6d;
+}
+
+.User-details a {
+  margin: 0px;
+  padding: 10px 35px;
+  margin-top: 20px;
+  text-decoration: none;
+  font-size: 15px;
+  background-color: #013a6d;
+  border: none;
+  margin-right: 10px;
+  color: #ffff;
+}
